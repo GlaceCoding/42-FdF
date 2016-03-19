@@ -1,6 +1,8 @@
 # 42-FdF
 Vous decouvrirez dans ce projet les bases de la programmation graphique, et en particulier, le placement de points dans l’espace, comment les relier avec des segments et surtout comment observer la scène depuis un certain point de vue.
 
+# 125/100 :)
+
 ## run
 
 	./fdf <map> [RRRGGGBBBAAA-RRRGGGBBBAAA] [OCEAN]
